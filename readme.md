@@ -81,8 +81,3 @@ where I'll be making different routes for the required CRUD (Create,Retrieve,Upd
     - Deploy the backend using any Node.js compatible hosting service, e.g., Heroku.
     - Deploy the frontend on Netlify or Vercel.
 
-
-- Front end...
-  [Vercel](https://auth-todo-list-mern.vercel.app/)
-- Back end...
-  [Railway](https://auth-todo-list-mern-production-e11d.up.railway.app/)
